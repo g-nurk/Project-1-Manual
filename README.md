@@ -1,8 +1,8 @@
-[Click here to see my Testing Checklists for project 1](https://acrobat.adobe.com/id/urn:aaid:sc:EU:783407b0-15a4-4ed6-91a6-e1eed4bd6f99)
+[Click here to see my project 1 Testing Checklists](https://acrobat.adobe.com/id/urn:aaid:sc:EU:783407b0-15a4-4ed6-91a6-e1eed4bd6f99)
 
-[Click here to see my Bug Report examples for project 1](https://acrobat.adobe.com/id/urn:aaid:sc:EU:05b92862-239d-4011-99dd-89847da9f253)
+[Click here to see my project 1 Bug Report examples](https://acrobat.adobe.com/id/urn:aaid:sc:EU:05b92862-239d-4011-99dd-89847da9f253)
 
-[Click here to see my Final Testing Report for project 1](https://acrobat.adobe.com/id/urn:aaid:sc:EU:0fc5199b-9111-4979-afde-b4ab2d824e9c)
+[Click here to see my project 1 Final Testing Report](https://acrobat.adobe.com/id/urn:aaid:sc:EU:0fc5199b-9111-4979-afde-b4ab2d824e9c)
 
 Our first project at Cerembrum Hub was: “Food Ordering App”. Customer was Bella’s Pizzeria and they only had one physical restaurant where they were making authentic pizzas based on their own unique recipes.
 
