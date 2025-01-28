@@ -4,7 +4,7 @@
 
 [Click here to see my project 1 Final Testing Report](https://acrobat.adobe.com/id/urn:aaid:sc:EU:0fc5199b-9111-4979-afde-b4ab2d824e9c)
 
-Our first project at Cerembrum Hub was: “Food Ordering App”. Customer was Bella’s Pizzeria and they only had one physical restaurant where they were making authentic pizzas based on their own unique recipes.
+Our first project at Cerebrum Hub was: “Food Ordering App”. Customer was Bella’s Pizzeria and they only had one physical restaurant where they were making authentic pizzas based on their own unique recipes.
 
 Project objectives: Decrease number of physical contacts using remote ordering system; Record and secure customers data to comply with GDPR and data privacy laws; Store customers data for 21 days according to the government demands. 
 
